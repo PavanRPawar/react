@@ -14,6 +14,7 @@ function App() {
       setCounter(prevCounter => prevCounter + 1)
       // setCounter(counter + 1)
       // setCounter(counter + 1)
+      // prevCounter and counter are same
     }
   }
 
