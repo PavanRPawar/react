@@ -18,9 +18,7 @@ function Card({userName, btnText = "Visit Me!"}) {
         <div className="space-y-2">
           <h2 className="text-3xl font-semibold tracking-wide">{userName}</h2>
           <p className="text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio
-            tempora ipsum soluta amet corporis accusantium aliquid consectetur
-            eaque!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quas doloribus explicabo doloremque iusto. Culpa, unde? Accusantium, veniam. Deserunt, tempore eos. Deserunt ducimus eius totam?
           </p>
         </div>
         <button
