@@ -32,3 +32,7 @@ Context API is a mechanism that allows you to share data or state across compone
 ## useContext
 useContext is a React Hook that lets you read and subscribe to context from your component. 
 useContext(SomeContext)
+
+## Redux
+Redux is a JS library for predictable and maintainable global state management. 
+React-Redux is a popular state management library that helps manage the application state in React applications. It is an essential tool in the React ecosystem, allowing you to efficiently handle complex state logic and data flow within large applications. React-Redux connects the Redux store to React components, enabling seamless communication between the two.
